@@ -12,19 +12,11 @@
 If you're still reading me, why don't we connect?</h4>
 
 <!-- <div style="text-align:center;">
-<a href="https://www.instagram.com/awais_khan_officials/">
-  <img align="left" alt="Awais's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 <a href="https://github.com/DevNinja56/">
   <img align="right" alt="Awai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 	</div> -->
 <br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="Awaiskhan404" /> </p>
-<!-- <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Awaiskhan404.Awaiskhan404"></p> -->
-
-<br/>
 
 <h5>
 
@@ -102,13 +94,11 @@ If you're still reading me, why don't we connect?</h4>
 
 
 <h2 align=center>  🔥 Streak Stats </h2>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Awaiskhan404&theme=algolia" alt="Awaiskhan404"  /></p><br>
 
 <h2 align=center>  💻 GitHub Profile Stats: </h2>
 
   <br/>
   <div  >
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Awaiskhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Awaiskhan404&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <!-- <br/> -->
 	&nbsp;
 	&nbsp;
@@ -116,7 +106,6 @@ If you're still reading me, why don't we connect?</h4>
 	&nbsp;
 	&nbsp;
 	&nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Awaiskhan404&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Awaiskhan404" height="192px"/>
   <br/>
   </div>
 
@@ -129,7 +118,6 @@ If you're still reading me, why don't we connect?</h4>
 
 <!-- ## ⚡ GitHub Activity Graph:
   <br/>
-   <a href="https://github.com/HxnDev"><img alt="Awais's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Awaiskhan404&custom_title=Awais%20khan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/> -->
 
 <h2 align=center>  💻 Languages and Tools: 🛠 </h2>

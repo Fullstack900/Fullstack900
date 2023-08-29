@@ -91,13 +91,6 @@ If you're still reading me, why don't we connect?</h4>
 	 
 </div>  </h5>
 <br>
-
-
-<h2 align=center>  🔥 Streak Stats </h2>
-
-<h2 align=center>  💻 GitHub Profile Stats: </h2>
-
-  <br/>
   <div  >
 <!-- <br/> -->
 	&nbsp;
